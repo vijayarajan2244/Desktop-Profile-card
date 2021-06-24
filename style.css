@@ -1,0 +1,64 @@
+.design>.d1,
+.design>.d2{
+    position: absolute;
+ 
+}
+.design>.d1{
+    
+    top: -447px;
+    left: -382px;
+}
+.design>.d2{
+    
+    bottom: -580px;
+    right: -308px;
+
+}
+.content{
+
+    margin-top: 160px;
+    margin-left: 480px;
+    width: 28%;
+   
+}
+.photo>img{
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -65px;
+    border: 5px solid white;
+   
+}
+.card-header{   
+    background-image: url(/profile-card-component-main/images/bg-pattern-card.svg);
+    height: 145px;
+    
+}
+.name{
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+
+}
+.city{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.footer>.num{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;  
+
+}
+.footer>.words{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+
